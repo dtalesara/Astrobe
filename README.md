@@ -1,1 +1,1 @@
-Created an atrobiology simulator and want to combine it with the deep learning with quantum computing model for image classification. 
+Created an atrobiology simulator and combined it with the deep learning with quantum computing model for image classification. Any input on the astrobiology simulator,quantum classifier and the combination model would be appreciated
