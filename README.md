@@ -1,5 +1,4 @@
-# 🌌 Astrobe — Unified Astrobiology Analysis Pipeline   DOI 10.5281/zenodo.19697333
-
+# 🌌 Astrobe — Unified Astrobiology Analysis Pipeline  
 **Astrobe** is a Python pipeline for assessing the possibility of life on any planet or moon — real, hypothetical, or exoplanetary. It combines four independent analysis modules into a single composite score and verdict.
 
 ```
