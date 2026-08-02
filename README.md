@@ -503,9 +503,7 @@ If you use Astrobe in academic work, please cite:
 
 ```
 Astrobe: Unified Astrobiology Analysis Pipeline v1.0
-DigitalDNA: A Nucleotide-Encoded Machine Learning Framework
-for Multi-Dimensional Astrobiological Habitability Assessment
-Preprint, 2025.
+
 ```
 
 ---
